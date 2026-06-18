@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @tirenifiyin
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html and python
+- 🌱 I’m currently learning css and networking
 - 💞️ I’m looking to collaborate on future projects
-- 📫 How to reach me tirenifiyin@gmail.com
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: hmm....
 
